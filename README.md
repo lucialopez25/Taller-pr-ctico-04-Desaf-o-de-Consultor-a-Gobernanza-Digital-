@@ -18,6 +18,9 @@ Tabla comparativa de estudio de mercado de los tres ERP:
 
 Para una PYME de 25 empleados, presupuesto ajustado y necesidad de personalización en el etiquetado la mejor opción disponible sería Odoo Community. Nuestra decisión se basa en el análisis y la comparación entre la competencia, siendo SAP S/4HANA excesiva en coste y complejidad para el tamaño de la plantilla y Zoho One, aunque económico, menos flexible para modificaciones profundas en la etiquetación que requiere la empresa. Es por eso que Odoo, permitiendo acceso al código fuente para personalizar el etiquetado sin pagar licencias anuales por usuario e ideal para pequeñas empresas, es la mejor opción.
 
+<img width="600" height="200" alt="image" src="https://github.com/user-attachments/assets/576e92df-cd85-4a27-ad21-c7519238e5da" />
+
+
 ## 2.Cálculo del TCO ( **Total Value of Ownership** o **Valor Total de Propiedad**. ) 3 años 
 
 | *Concepto* | *Detalle* | *Coste*  |
