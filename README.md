@@ -35,7 +35,7 @@ Para una PYME de 25 empleados, presupuesto ajustado y necesidad de personalizaci
 
 # 1\. Diseño de Seguridad RBAC
 
-El [principio del mínimo privilegio](https://www.paloaltonetworks.com/blog/2022/05/ztna-1-0-violates-principle-of-least-privilege/) es un concepto relacionado con la seguridad de la información según el cual un usuario sólo debe tener acceso a los datos, los recursos y las aplicaciones que necesite para llevar a cabo una determinada tarea. 
+El [Principio del mínimo privilegio](https://www.paloaltonetworks.com/blog/2022/05/ztna-1-0-violates-principle-of-least-privilege/) es un concepto relacionado con la seguridad de la información según el cual un usuario sólo debe tener acceso a los datos, los recursos y las aplicaciones que necesite para llevar a cabo una determinada tarea. 
 
 | *ROL* | *Ventas (CRM)* | *Almacén (STCOK)* | *Contabilidad* | *Configuración* |
 | :---: | :---: | :---: | :---: | :---: |
